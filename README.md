@@ -1,5 +1,20 @@
 # 12Spammers
 Kumpulan 12 Tools Spammers (SMS,Call,Wa).
+# Spam available
+```
+- asakita
+- sunchilla 
+- nutriclub
+- asani
+- wintershop
+- datesy
+- thaifriendly
+- jumpstart
+- kinimart
+- klikwa
+- bakmikeraton
+- kopidulukala
+```
 # Requirements
 ```
 requests
