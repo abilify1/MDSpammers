@@ -23,8 +23,8 @@ requests
 ```
 $ apt update && apt upgrade
 $ pkg update;pkg install python2
-$ git clone https://github.com/AbilSeno/12Spammers
-$ cd 12Spammers
+$ git clone https://github.com/AbilSeno/MDSpammers
+$ cd MDSpammers
 $ pip2 install requests
 $ python2 main.py
 ```
