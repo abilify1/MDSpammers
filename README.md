@@ -14,6 +14,14 @@ Medium spammers dengan 20 Tools Spammers (SMS,Call,Wa).
 - klikwa
 - bakmikeraton
 - kopidulukala
+- kredinesia
+- pinjamindo
+- uangpintar
+- danafix
+- maucash 
+- omamoriexpress
+- danacepat
+- cairin
 ```
 # Requirements
 ```
