@@ -1,5 +1,5 @@
-# 12Spammers
-Kumpulan 12 Tools Spammers (SMS,Call,Wa).
+# MDSpammers
+Medium spammers dengan 12 Tools Spammers (SMS,Call,Wa).
 # Spam available
 ```
 - asakita
