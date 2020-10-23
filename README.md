@@ -1,5 +1,5 @@
 # MDSpammers
-Medium spammers dengan 20 Tools Spammers (SMS,Call,Wa).
+Medium spammers dengan 30 Tools Spammers (SMS,Call,Wa).
 # Spam available
 ```
 - asakita
@@ -22,6 +22,14 @@ Medium spammers dengan 20 Tools Spammers (SMS,Call,Wa).
 - omamoriexpress
 - danacepat
 - cairin
+- kredito
+- kreditpedia
+- bocil
+- duitqu
+- primacash
+- temanprima
+- maripinjam
+- sobatbangun
 ```
 # Requirements
 ```
