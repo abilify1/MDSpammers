@@ -44,3 +44,4 @@ $ cd MDSpammers
 $ pip2 install requests
 $ python2 main.py
 ```
+Ketik ```git pull``` untuk mengupdate script
