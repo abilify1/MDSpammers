@@ -284,7 +284,7 @@ def maripinjam():
  }
  #ijo=requests.get("https://api.guntur.top/a0jm6akw/hvfgpv71/wzq12mqh/"+nom+"/2",headers=hd).text
  #if json.loads(ijo)["success"] == True:
-  sukses("29","sms","maripinjam")
+ sukses("29","sms","maripinjam")
  #else:
   #gagal("29","sms","maripinjam")
 def sobatbangun():
