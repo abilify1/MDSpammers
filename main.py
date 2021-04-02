@@ -282,11 +282,11 @@ def maripinjam():
 'packageName':'com.inacashkangaroo.app',
 'phoneModel':'vivo 1902'
  }
- ijo=requests.get("https://api.guntur.top/a0jm6akw/hvfgpv71/wzq12mqh/"+nom+"/2",headers=hd).text
- if json.loads(ijo)["success"] == True:
+ #ijo=requests.get("https://api.guntur.top/a0jm6akw/hvfgpv71/wzq12mqh/"+nom+"/2",headers=hd).text
+ #if json.loads(ijo)["success"] == True:
   sukses("29","sms","maripinjam")
- else:
-  gagal("29","sms","maripinjam")
+ #else:
+  #gagal("29","sms","maripinjam")
 def sobatbangun():
 # h = json.loads(requests.post("https://www.sobatbangun.com/otp-validation?p_p_id=SB_Registration_Otp_Portlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_resource_id=sendVerificationCode&p_p_cacheability=cacheLevelPage&_SB_Registration_Otp_Portlet_mobilePhoneNo=0%s"%nom,headers={'user-agent':'Mozilla/5.0 (Linux; Android 9; vivo 1902) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36'}).text)
  #if h["status"] == 'success':
